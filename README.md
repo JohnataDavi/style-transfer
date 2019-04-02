@@ -1,4 +1,7 @@
 # Style Transfer
+
+## Descrição do projeto
+
 Este trabalho tem por objetivo o desenvolvimento de um algoritmo para a transferência de estilo, utilizando o paradigma da orientação a objetos em Python, dentre outras
 tecnologias. Transferência de estilo, é um processo de migração de um estilo de uma determinada imagem para o conteúdo de outra, gerando uma nova imagem que é uma mistura
 artística das duas anteriores, isso só foi possível através da utilização de uma arquitetura
