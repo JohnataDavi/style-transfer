@@ -1,8 +1,6 @@
-
-#Pacotes ultilizados
-
-numpy
-matplotlib
-Pillow
-tensorflow		
-tensorflow-gpu	
+#Pacotes ultilizados:
+- Numpy;
+- Matplotlib;
+- Pillow;
+- Tensorflow;		
+- Tensorflow-gpu.	
