@@ -1,14 +1,14 @@
 # Style Transfer
 
-## Descrição do projeto
+## Project description
 
-Este trabalho tem por objetivo o desenvolvimento de um algoritmo para a transferência de estilo, utilizando o paradigma da orientação a objetos em Python, dentre outras
-tecnologias. Transferência de estilo, é um processo de migração de um estilo de uma determinada imagem para o conteúdo de outra, gerando uma nova imagem que é uma mistura
-artística das duas anteriores, isso só foi possível através da utilização de uma arquitetura
-composta por redes neurais convolucionais (CNN), uma delas é a VGG16, sendo uma
-rede treinada e otimizada para o reconhecimento de imagens. Nessas circunstancias foram utilizadas diversas bibliotecas, tais como Matplotlib, TensorFlow, NumPy, Python
-Imaging Library (PIL), datetime, que auxiliaram na criação do projeto. O programa foi
-desenvolvido com a implementação de classes seguindo o conceito de orientação a objetos em Python, deixando o código mais organizado e de fácil leitura. Para a criação do
-ambiente de desenvolvimento, foi utilizado o Anaconda para gerenciamento dos pacotes
-e bibliotecas, e o Visual Studio Code para editar o código. Os resultados fornecem novas representações de imagens utilizando do Aprendizado de Máquina por Redes Neurais
-Convolucional, demonstrando o seu potencial para a manipulação de imagens.
+This work aims to develop an algorithm for style transfer, using the Python object orientation paradigm, among others.
+technologies. Style transfer is a process of migrating a style from one image to the content of another, generating a new image that is a mix
+of the previous two, this was only possible through the use of an architecture
+composed by convolutional neural networks (CNN), one of them is VGG16, being a
+trained network optimized for image recognition. Under these circumstances several libraries were used, such as Matplotlib, TensorFlow, NumPy, Python.
+Imaging Library (PIL), datetime, which assisted in the creation of the project. The program was
+developed with the implementation of classes following the concept of object orientation in Python, making the code more organized and easy to read. For the creation of
+development environment, Anaconda was used for package management.
+and libraries, and Visual Studio Code to edit the code. Results Provide New Imaging Representations Using Machine Learning by Neural Networks
+Convolutional, demonstrating its potential for image manipulation.
