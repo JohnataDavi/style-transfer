@@ -1,4 +1,4 @@
-#Pacotes ultilizados:
+# Pacotes ultilizados:
 - Numpy;
 - Matplotlib;
 - Pillow;
